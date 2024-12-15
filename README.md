@@ -2,7 +2,7 @@
 Validator Utilities
 
 ```typescript
-import { Validator } from "validate-this";
+import { Validator } from "validatorUtil";
 
 console.log(Validator.isEmail("test@example.com")); // true
 console.log(Validator.isPhoneNumber("+1234567890")); // true
