@@ -1,5 +1,5 @@
-# validationUtil
-Validation Utilities
+# validatorUtil
+Validator Utilities
 
 ```typescript
 import { Validator } from "validate-this";
