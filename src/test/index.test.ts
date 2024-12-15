@@ -1,4 +1,4 @@
-import { Validator } from "./index";
+import { Validator } from "../index";
 
 describe("Validator", () => {
   test("isEmail validates correct emails", () => {
