@@ -1,7 +1,7 @@
 {
-  "name": "validationutil",
+  "name": "validatorutil",
   "version": "1.0.0",
-  "description": "Validation Utilities",
+  "description": "Validator Utilities",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,21 +10,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ylehilds/validationUtil.git"
+    "url": "git+https://github.com/ylehilds/validatorUtil.git"
   },
   "keywords": [
-    "Validation",
+    "Validator",
     "Utilities",
+    "util",
     "phone",
     "email",
-    "etc"
+    "pattern"
   ],
   "author": "Lehi Alcantara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ylehilds/validationUtil/issues"
+    "url": "https://github.com/ylehilds/validatorUtil/issues"
   },
-  "homepage": "https://github.com/ylehilds/validationUtil#readme",
+  "homepage": "https://github.com/ylehilds/validatorUtil#readme",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.2",
