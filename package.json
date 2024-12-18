@@ -1,5 +1,5 @@
 {
-  "name": "@lehidev/validatorutil",
+  "name": "@lehidev/validator-util",
   "version": "1.0.4",
   "description": "Validator Utilities",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ylehilds/validatorUtil.git"
+    "url": "git+https://github.com/ylehilds/validator-util.git"
   },
   "keywords": [
     "Validator",
@@ -23,7 +23,7 @@
   "author": "Lehi Alcantara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ylehilds/validatorUtil/issues",
+    "url": "https://github.com/ylehilds/validator-util/issues",
     "email": "lehilds@gmail.com"
   },
   "homepage": "https://lehi.dev/",

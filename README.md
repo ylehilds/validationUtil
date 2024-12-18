@@ -1,8 +1,8 @@
-# validatorUtil
+# validator-util
 Validator Utilities
 
 ```typescript
-import { Validator } from "@lehidev/validatorutil";
+import { Validator } from "@lehidev/validator-util";
 
 console.log(Validator.isEmail("test@example.com")); // true
 console.log(Validator.isEmail("testexample.com")); // false
